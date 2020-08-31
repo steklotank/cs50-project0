@@ -3,6 +3,13 @@
     text-align: right;
     height: 50px;
     padding: 10px;
+    font-size : 14px;
+}
+
+.right-corner a
+{
+    
+    padding: 10px;
 }
 
 .logo
@@ -47,15 +54,6 @@
     box-shadow: 2px 2px 2px 2px grey;
 }
 
-
-.icons
-{
-    
-    display: none;
-    padding: 10px;
-    position: relative;
-    top: -30px;
-}
 
 .search-button
 {
@@ -108,16 +106,3 @@ body
 
 
 
-.icon-search
-{
-position: relative;
-    left: -105px;
-}
-.icon-keyboard
-{
-
-}
-.icon-micro
-{
-
-}
