@@ -19,6 +19,7 @@
     margin: 160px 50px 20px 50px;
     color : blue;
 }
+
 .logo-img
 {
     display: block;
@@ -33,6 +34,7 @@
     left: 105px;
     bottom: 25px;
 }
+
 .icon-search
 {
     position: relative;
@@ -43,14 +45,11 @@
     display: inline;
 }
 
-
-
 .button-pannel
 {
     text-align: center;
     margin: 25px;
 }
-
 
 .button
 {
@@ -82,8 +81,6 @@
 
 }
 
-
-
 .search-button
 {
     background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
@@ -114,8 +111,6 @@
     color : #212121;
 }
 
-
-
 a
 {
      text-decoration: none;
@@ -131,7 +126,3 @@ body
 {
     font-family: Google Sans,Roboto,arial,sans-serif;
 }
-
-
-
-
