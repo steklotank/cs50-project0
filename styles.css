@@ -126,3 +126,28 @@ body
 {
     font-family: Google Sans,Roboto,arial,sans-serif;
 }
+
+.advanced-header
+{
+font-family: arial,sans-serif;
+font-size: 13px;
+color :  #777777;
+}
+.advanced-description
+{
+font-family: arial,sans-serif;
+font-size: 11px;
+color :  #555555;
+}
+.advanced-name
+{
+font-family: arial,sans-serif;
+font-size: 16px;
+color :  #3333333;
+}
+.advanced-article
+{
+font-family: arial,sans-serif;
+font-size: 13px;
+color :  #222222;
+}
