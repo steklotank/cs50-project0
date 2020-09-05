@@ -104,7 +104,6 @@
     color :  #9C9C9C; 
 }
 
-
 .search-button:hover
 {
     border: 1px solid #212121;    
@@ -128,30 +127,61 @@ body
 }
 
 .advanced-header
+
 {
-font-family: arial,sans-serif;
-font-size: 13px;
-color :  #777777;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    color :  #777777;
 }
 .advanced-description
+
 {
-font-family: arial,sans-serif;
-font-size: 11px;
-color :  #555555;
+    font-family: arial,sans-serif;
+    font-size: 11px;
+    color :  #555555;
 }
 .advanced-name
+
 {
-font-family: arial,sans-serif;
-font-size: 16px;
-color :  #3333333;
+    font-family: arial,sans-serif;
+    font-size: 16px;
+    color :  #3333333;
 }
+
 .advanced-article
 {
-font-family: arial,sans-serif;
-font-size: 13px;
-color :  #222222;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    color :  #222222;
 }
+
 input
 {
-outline:none;
+    outline:none;
+}
+
+.advanced-header
+{
+    height: 60px; 
+    background-color: #f1f1f1;
+}
+
+.advanced-title
+{
+    color: #d93039; 
+    height: 70px; 
+    font-size: 22px; 
+    padding-left: 25px; 
+    border-bottom: 1px solid #ebebeb
+}
+
+.advanced-row-top
+{
+    margin: 10px; 
+}
+
+.advanced-row
+{
+    margin: 10px; 
+    height: 50px;
 }
