@@ -1,0 +1,33 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Search pannel",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steklotank/cs50web.git"
+  },
+  "author": "Sergey Kabanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steklotank/cs50web/issues"
+  },
+  "homepage": "https://github.com/steklotank/cs50web#readme",
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "mini-css-extract-plugin": "^0.11.0",
+    "sass": "^1.26.10",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
